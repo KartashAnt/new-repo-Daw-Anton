@@ -5,5 +5,6 @@ public class Principal {
 		System.out.println("syso");
 		System.out.println("otro");
 		System.out.println("master");
+		System.out.println("Subida conectada con GitHub");
 	}
 }
